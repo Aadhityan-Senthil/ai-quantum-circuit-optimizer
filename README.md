@@ -61,8 +61,6 @@ After training:
 - Competitive with IBM Qiskit's optimizer
 - Learns simple patterns first, complex patterns later
 
----
-
 ## 🛠️ Project Structure
 
 ```
