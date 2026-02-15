@@ -63,32 +63,6 @@ After training:
 
 ---
 
-## 📝 LinkedIn Post Template
-
-```
-Built an AI agent that optimizes quantum circuits using reinforcement learning 🚀
-
-The agent learns to reduce circuit gate count by 30-60% — critical for reducing 
-noise on real quantum hardware.
-
-Key features:
-✅ Explicit equivalence verification
-✅ Depth-aware optimization  
-✅ Benchmarked against IBM Qiskit
-✅ Interpretable policy evolution
-
-The agent discovers patterns through trial and error — simple cancellations 
-early, complex substitutions later.
-
-This matters because every gate adds noise. Circuit optimization is one of the 
-biggest blockers to practical quantum computing.
-
-[Attach training_results.png]
-
-Tech: Python, Qiskit, Stable-Baselines3 (DQN), Gymnasium
-Code: [your GitHub link]
-```
-
 ---
 
 ## 🛠️ Project Structure
